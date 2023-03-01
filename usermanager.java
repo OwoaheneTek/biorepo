@@ -3,6 +3,6 @@ mummy
 martin
 michael
 eric
-grace
-comfort 
+mamager
+comfor
 
